@@ -1,0 +1,74 @@
+2026-10-06 17:17:08,651 | INFO | Scraping pipeline started
+2026-10-06 17:17:08,652 | INFO | Starting Books scraper
+2026-10-06 17:18:35,943 | INFO | Books scraping completed: 1000 records
+2026-10-06 17:18:35,944 | INFO | Starting Quotes scraper
+2026-10-06 17:18:35,944 | INFO | Scraping quotes page: https://quotes.toscrape.com/
+2026-10-06 17:18:37,388 | INFO | Found 10 quotes on page
+2026-10-06 17:18:37,394 | INFO | Scraping quotes page: https://quotes.toscrape.com/page/2/
+2026-10-06 17:18:38,478 | INFO | Found 10 quotes on page
+2026-10-06 17:18:38,484 | INFO | Scraping quotes page: https://quotes.toscrape.com/page/3/
+2026-10-06 17:18:38,737 | INFO | Found 10 quotes on page
+2026-10-06 17:18:38,742 | INFO | Scraping quotes page: https://quotes.toscrape.com/page/4/
+2026-10-06 17:18:39,003 | INFO | Found 10 quotes on page
+2026-10-06 17:18:39,010 | INFO | Scraping quotes page: https://quotes.toscrape.com/page/5/
+2026-10-06 17:18:39,263 | INFO | Found 10 quotes on page
+2026-10-06 17:18:39,271 | INFO | Scraping quotes page: https://quotes.toscrape.com/page/6/
+2026-10-06 17:18:39,525 | INFO | Found 10 quotes on page
+2026-10-06 17:18:39,531 | INFO | Scraping quotes page: https://quotes.toscrape.com/page/7/
+2026-10-06 17:18:39,787 | INFO | Found 10 quotes on page
+2026-10-06 17:18:39,793 | INFO | Scraping quotes page: https://quotes.toscrape.com/page/8/
+2026-10-06 17:18:40,054 | INFO | Found 10 quotes on page
+2026-10-06 17:18:40,060 | INFO | Scraping quotes page: https://quotes.toscrape.com/page/9/
+2026-10-06 17:18:40,314 | INFO | Found 10 quotes on page
+2026-10-06 17:18:40,321 | INFO | Scraping quotes page: https://quotes.toscrape.com/page/10/
+2026-10-06 17:18:40,573 | INFO | Found 10 quotes on page
+2026-10-06 17:18:40,578 | INFO | Quotes scraping completed: 100 records
+2026-10-06 17:18:40,580 | INFO | Quotes scraping completed: 100 records
+2026-10-06 17:18:40,580 | INFO | Total scraped records: 1100
+2026-10-06 17:18:40,581 | INFO | Starting data cleaning
+2026-10-06 17:18:40,591 | INFO | Cleaning completed: 1100 records
+2026-10-06 17:18:40,591 | INFO | Starting validation
+2026-10-06 17:18:40,602 | INFO | Validation completed | Valid: 1100 | Invalid: 0
+2026-10-06 17:18:40,602 | INFO | Starting deduplication
+2026-10-06 17:18:40,605 | INFO | Deduplication completed | Unique: 1050 | Duplicates: 50
+2026-10-06 17:18:40,606 | INFO | Saving JSON output
+2026-10-06 17:18:40,634 | INFO | Saving CSV output
+2026-10-06 17:18:40,648 | INFO | Output successfully generated
+2026-10-06 17:18:40,649 | INFO | Scraping pipeline completed successfully
+2026-10-06 17:32:04,677 | INFO | Scraping pipeline started
+2026-10-06 17:32:04,680 | INFO | Starting Books scraper
+2026-10-06 17:33:34,115 | INFO | Books scraping completed: 1000 records
+2026-10-06 17:33:34,115 | INFO | Starting Quotes scraper
+2026-10-06 17:33:34,116 | INFO | Scraping quotes page: https://quotes.toscrape.com/
+2026-10-06 17:33:35,509 | INFO | Found 10 quotes on page
+2026-10-06 17:33:35,518 | INFO | Scraping quotes page: https://quotes.toscrape.com/page/2/
+2026-10-06 17:33:35,775 | INFO | Found 10 quotes on page
+2026-10-06 17:33:35,780 | INFO | Scraping quotes page: https://quotes.toscrape.com/page/3/
+2026-10-06 17:33:36,034 | INFO | Found 10 quotes on page
+2026-10-06 17:33:36,038 | INFO | Scraping quotes page: https://quotes.toscrape.com/page/4/
+2026-10-06 17:33:36,290 | INFO | Found 10 quotes on page
+2026-10-06 17:33:36,296 | INFO | Scraping quotes page: https://quotes.toscrape.com/page/5/
+2026-10-06 17:33:36,555 | INFO | Found 10 quotes on page
+2026-10-06 17:33:36,563 | INFO | Scraping quotes page: https://quotes.toscrape.com/page/6/
+2026-10-06 17:33:36,814 | INFO | Found 10 quotes on page
+2026-10-06 17:33:36,819 | INFO | Scraping quotes page: https://quotes.toscrape.com/page/7/
+2026-10-06 17:33:37,070 | INFO | Found 10 quotes on page
+2026-10-06 17:33:37,075 | INFO | Scraping quotes page: https://quotes.toscrape.com/page/8/
+2026-10-06 17:33:37,331 | INFO | Found 10 quotes on page
+2026-10-06 17:33:37,336 | INFO | Scraping quotes page: https://quotes.toscrape.com/page/9/
+2026-10-06 17:33:37,587 | INFO | Found 10 quotes on page
+2026-10-06 17:33:37,595 | INFO | Scraping quotes page: https://quotes.toscrape.com/page/10/
+2026-10-06 17:33:37,853 | INFO | Found 10 quotes on page
+2026-10-06 17:33:37,860 | INFO | Quotes scraping completed: 100 records
+2026-10-06 17:33:37,864 | INFO | Quotes scraping completed: 100 records
+2026-10-06 17:33:37,864 | INFO | Total scraped records: 1100
+2026-10-06 17:33:37,865 | INFO | Starting data cleaning
+2026-10-06 17:33:37,881 | INFO | Cleaning completed: 1100 records
+2026-10-06 17:33:37,881 | INFO | Starting validation
+2026-10-06 17:33:37,894 | INFO | Validation completed | Valid: 1100 | Invalid: 0
+2026-10-06 17:33:37,895 | INFO | Starting deduplication
+2026-10-06 17:33:37,898 | INFO | Deduplication completed | Unique: 1050 | Duplicates: 50
+2026-10-06 17:33:37,900 | INFO | Saving JSON output
+2026-10-06 17:33:37,938 | INFO | Saving CSV output
+2026-10-06 17:33:37,951 | INFO | Output successfully generated
+2026-10-06 17:33:37,953 | INFO | Scraping pipeline completed successfully
